@@ -54,8 +54,7 @@ Automated onboarding/offboarding tasks and ticket routing logic.
 ---
 
 ## Connect With Me
-- **LinkedIn:** (add your link here)  
-- **Email:** (optional)
+- **LinkedIn:** linkedin.com/in/gurveer-singh
 
 ---
 
